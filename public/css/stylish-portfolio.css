@@ -162,6 +162,11 @@ i.service-icon {
   background-size: cover;
 }
 
+.service {
+  height: 400px;
+  width: 100%;
+}
+
 /* Portfolio */
 
 .portfolio {
